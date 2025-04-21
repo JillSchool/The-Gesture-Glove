@@ -1,6 +1,6 @@
 # The Gesture Glove – Tinlab1 Embedded Systems
 
-In deze opleverset is het project *The Gesture Glove* van Tinlab1 Embedded Systems te vinden.
+In deze opleverset is het project *The Gesture Glove* van Tinlab1 Embedded Systems te vinden. De Demo videos en presentatie staan alleen in de opleverset.
 
 ## 📁 Onderdelen Opleverset
 
