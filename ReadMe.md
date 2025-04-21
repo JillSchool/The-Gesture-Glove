@@ -15,6 +15,10 @@ In deze opleverset is het project *The Gesture Glove* van Tinlab1 Embedded Syste
 - **Simulatie**  
   Bevat de simulatiewereld inclusief bijbehorende controllers.
 
+- **TestCodes**  
+  Bevat drie test codes gebruikt voor het project.
+
+
 ---
 
 ### 📂 Demo
